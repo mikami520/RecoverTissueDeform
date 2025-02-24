@@ -124,13 +124,13 @@ Our pretrained checkpoint can be downloaded
 ## Contact
 For any questions, please contact `szgong22@cse.cuhk.edu.hk`
 
+## Star History
 <p align="center">
-	## Star History
 	<a href="https://star-history.com/#mikami520/RecoverTissueDeform&Date">
-		 <picture>
-		   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=mikami520/RecoverTissueDeform&type=Date&theme=dark" />
-		   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=mikami520/RecoverTissueDeform&type=Date" />
-		   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=mikami520/RecoverTissueDeform&type=Date" />
-		 </picture>
+	 <picture>
+	   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=mikami520/RecoverTissueDeform&type=Date&theme=dark" />
+	   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=mikami520/RecoverTissueDeform&type=Date" />
+	   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=mikami520/RecoverTissueDeform&type=Date" />
+	 </picture>
 	</a>
 </p>
